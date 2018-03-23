@@ -1,4 +1,4 @@
-#NEU Wireless RFID Attendance Project
+NEU Wireless RFID Attendance Project
 =====================================
 NEU Wireless club project for creating a Husky Card RFID attendance system using the PN532 
 NFC reader. Requires:
